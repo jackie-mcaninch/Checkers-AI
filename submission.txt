@@ -1,0 +1,4 @@
+# This is an example of the format of the text file
+# Replace names below with other class names or use a different text file
+TestName
+TeamA
