@@ -7,7 +7,7 @@ import checkers.AbstractEvaluator;
  * of one of the students in the team
  * e.g. student Bob Smith -> BSmith
  */
-public class TestName extends AbstractEvaluator {
+public class jmcaninch extends AbstractEvaluator {
 
     /*
      * Helper methods:
@@ -22,7 +22,7 @@ public class TestName extends AbstractEvaluator {
      * oppKing    (char tile):   opponent's king checker pieces
      */
 
-    public TestName() { //also change constructor name
+    public jmcaninch() { //also change constructor name
 
         //change theses values
         super.name = "Jackie"; //set equal to your team name
